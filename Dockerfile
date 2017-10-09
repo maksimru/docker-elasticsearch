@@ -1,5 +1,5 @@
-FROM quay.io/pires/docker-jre:8u131_r2
-MAINTAINER pjpires@gmail.com
+FROM maxmtmn/docker-jre:8u131_r2
+MAINTAINER maxmtmn@gmail.com
 
 # Export HTTP & Transport
 EXPOSE 9200 9300
